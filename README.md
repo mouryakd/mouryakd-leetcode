@@ -8,9 +8,9 @@ Auto-synced by [LeetCode GitHub AutoSync](https://github.com)
 |:----------:|:------:|
 | 🟢 Easy    | 7   |
 | 🟡 Medium  | 5   |
-| 🔴 Hard    | 0   |
-| **Total**  | **12** |
+| 🔴 Hard    | 1   |
+| **Total**  | **13** |
 
 ---
 
-*Last updated: 2026-08-02*
+*Last updated: 2026-08-03*
